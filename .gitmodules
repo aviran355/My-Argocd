@@ -1,0 +1,3 @@
+[submodule "argocd-app-config"]
+	path = argocd-app-config
+	url = https://github.com/aviran355/My-Argocd
